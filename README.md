@@ -1,4 +1,4 @@
 cricket-mgmt
 ============
 
-It's a cricketer recoed management System
+It's a cricketer record management System
